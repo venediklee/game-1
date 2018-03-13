@@ -11,3 +11,4 @@ __FIRST PLAYABLE FINISHED IN 28.01.2018__
 __FIRST PLAYABLE ABANDONED IN 30.01.2018__
 
 Made With Unity3D
+There are bugs such as game mode does not change(most probably because of the update method i am using)
